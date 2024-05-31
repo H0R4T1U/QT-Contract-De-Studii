@@ -1,2 +1,6 @@
 # QT-Contract-De-Studii
-Aplicatie Grafica construita in QT si CPP urmand Cpp Core Guidelines
+##  Primary goal: To practice OOP principles. ✅
+## I gained substantial expertise in : 
+- Memory Management(Rule of Three RAII, Memory Leaks, Dangling Pointers, and Smart Pointers)✅
+- Design Patterns (Observer, Model-View-Controller)✅
+- Creation of Graphical User Interfaces Using QT ✅
